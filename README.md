@@ -8,7 +8,8 @@ Developer and Artist
 * 🖥️  See my portfolio at [My Portfolio](http://elexmaharjan.com.np)
 * ✉️  You can contact me at [hello@elexmaharjan.com.np](mailto:hello@elexmaharjan.com.np)
 * 🧠  I'm learning Flutter
-* ⚡  I'm secretly Alien... but don't tell anyone
+* 👽  Too alien for earth, too human for outer space.
+* 🚀  Catch me on the extraterrestrial highway.
 
 ### Skills
 
